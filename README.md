@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Pokedex feita no curso de angular 
+> Pokedex feita no curso de angular v14 
 
 
 ## Author
